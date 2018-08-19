@@ -12,6 +12,6 @@ public class Test {
              System.out.print(str.charAt(str.length()-i-1));
          }
         System.out.println("test");
-
+         //i am doin' nothing
     }
 }
