@@ -7,6 +7,7 @@ public class Main {
 
         Bus bus = new Bus("Sibi",3);
         System.out.println(bus);
+        System.out.println("Happy coding");
 
     }
 }
