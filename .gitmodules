@@ -1,3 +1,4 @@
 [submodule "Daniel"]
 	path = Daniel
 	url = https://github.com/sibidaniel/Daniel.git
+	branch = Test
